@@ -946,6 +946,7 @@ section.upcoming-meetings .categories .main-button-red a {
 
 .meeting-item {
   margin-bottom: 30px;
+  
 }
 
 .meeting-item .thumb {
@@ -1331,6 +1332,7 @@ section.contact-us {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 140px 0px 0px 0px;
+  background-color: #2b3f495a;
 }
 
 section.contact-us #contact {
@@ -1789,6 +1791,7 @@ responsive
   section.upcoming-meetings .categories {
     margin-right: 0px;
     margin-bottom: 30px;
+    background-color: #191a2039;
   }
 
   .accordions {
